@@ -24,7 +24,7 @@ Our architecture follows the "Medallion" structure (Raw -> Processed -> Analytic
 
 ## Team Contributions 
 - **Bereket Shegye (Lead):** 
-- **berhan tesfay:** 
+- **Berhane Tesfay:** API Extraction - Developed the Python script to fetch and parse Open-Meteo JSON data.
 - **zewdu werede:** Data Profiling - Managed CSV/Parquet source validation and initial data quality checks.
 - **kalkidan anberbir:** 
 - **Zelalem Zeleke:** Transformation Engineer - Developed the Pandas fallback scripts and join logic.
