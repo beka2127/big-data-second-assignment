@@ -16,7 +16,7 @@ Our architecture follows the "Medallion" structure (Raw -> Processed -> Analytic
     *   Multi-source joins to align taxi pickups with hourly weather data.
 3.  **Loading (DuckDB):** 
     *   High-performance storage in a local DuckDB analytical database.
-    *   Creation of optimized SQL views for Business Intelligence reporting.
+    *   Creation of optimized SQL views for Business Intelligence reporting. then loaded the data to the bi using ODBC (open database connection).
 4.  **Orchestration (Prefect):** 
     *   Automated workflow management ensuring scripts run in the correct sequence with retry logic.
 5.  **Visualization (Power BI):** 
