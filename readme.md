@@ -27,7 +27,7 @@ Our architecture follows the "Medallion" structure (Raw -> Processed -> Analytic
 - **berhan tesfay:** 
 - **zewdu werede:** 
 - **kalkidan anberbir:** 
-- **zelalem zeleke:** 
+- **Zelalem Zeleke:** Transformation Engineer - Developed the Pandas fallback scripts and join logic.
 - **lamrot girma:**
 - **hana solomon:** 
 - **hailemaryam assefa:**
