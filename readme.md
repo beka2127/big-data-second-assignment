@@ -23,7 +23,7 @@ Our architecture follows the "Medallion" structure (Raw -> Processed -> Analytic
     *   Interactive dashboard showing correlations between weather, demand, and revenue.
 
 ## Team Contributions 
-- **Bereket Shegye (Lead):** 
+- **Bereket Shegye :** Project architecture, GitHub management, and pipeline integration.
 - **Berhane Tesfay:** API Extraction - Developed the Python script to fetch and parse Open-Meteo JSON data.
 - **zewdu werede:** Data Profiling - Managed CSV/Parquet source validation and initial data quality checks.
 - **kalkidan anberbir:** 
