@@ -30,7 +30,7 @@ Our architecture follows the "Medallion" structure (Raw -> Processed -> Analytic
 - **Zelalem Zeleke:** Transformation Engineer - Developed the Pandas fallback scripts and join logic.
 - **lamrot girma:**
 - **hana solomon:** 
-- **hailemaryam assefa:**
+- **Hailemaryam Assefa:**BI Developer - Designed the Power BI dashboard and performed final data storytelling.
 
 ## Key Insights Gained
 - **Weather Sensitivity:** Taxi demand shows a significant correlation with precipitation; trip volume increases during moderate rain as users pivot from walking to ride-hailing.
