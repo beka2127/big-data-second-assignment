@@ -28,7 +28,7 @@ Our architecture follows the "Medallion" structure (Raw -> Processed -> Analytic
 - **zewdu werede:** Data Profiling - Managed CSV/Parquet source validation and initial data quality checks.
 - **kalkidan Anberbir:** Transformation Engineer - Wrote the PySpark logic for high-volume data cleaning.
 - **Zelalem Zeleke:** Transformation Engineer - Developed the Pandas fallback scripts and join logic.
-- **lamrot girma:**
+- **lamrot Girma:** Database Admin - Configured DuckDB schema and wrote SQL views for the BI layer.
 - **hana solomon:** Orchestration Lead - Implemented Prefect flows and automated the task scheduling.
 - **Hailemaryam Assefa:**BI Developer - Designed the Power BI dashboard and performed final data storytelling.
 
